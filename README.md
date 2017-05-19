@@ -1,11 +1,11 @@
 # Waverley Council Scraper
 
-* Server - .NET - ePathway - Hate this
+* Server - XC.Track
 * Cookie tracking - Yes
 * Pagnation - No
-* Javascript - Yes, Hate this too
+* Javascript - No
 * Clearly defined data within a row - No but acceptable
-* Force Scan - Yes
+
 
 Setup MORPH_PERIOD for data recovery, available options are
 

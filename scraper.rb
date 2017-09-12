@@ -33,6 +33,13 @@ results = page.search('div.result')
 results.each do |result|
   council_reference = result.search('a.search')[0].inner_text.strip.split.join(" ")
 
+  begin
+    address = result.search('strong')[0].inner_text.strip.split.join(" ")
+  rescue
+    puts "Skipping " + council_reference + ". Failed to locate address"
+    next
+  end
+
   description = result.inner_text
   description = description.split( /\r?\n/ )
   description = description[3].strip.split.join(" ").split(' - ', 2)[1]
@@ -47,7 +54,7 @@ results.each do |result|
 
   record = {
     'council_reference' => council_reference,
-    'address'           => result.search('strong')[0].inner_text.strip.split.join(" "),
+    'address'           => address,
     'description'       => description,
     'info_url'          => info_url,
     'comment_url'       => comment_url + council_reference,

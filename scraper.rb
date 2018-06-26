@@ -23,7 +23,6 @@ agent.request_headers = { "Accept-Encoding" => "" }
 # Accept terms
 page = agent.get(url_base + '/Common/Common/terms.aspx')
 form = page.forms.first
-form.checkbox_with(:name => 'ctl00$ctMain$chkAgree$chk1').check
 page = form.click_button( form.button_with(:value => "I Agree") )
 
 # Scrape DA page

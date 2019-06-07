@@ -1,0 +1,222 @@
+---
+- council_reference: CD-106/2014/A
+  address: 44 Mill Hill Road BONDI JUNCTION NSW 2022
+  description: Private - Modified certificate - Replace existing window with door
+    unit
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371374
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=CD-106/2014/A
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: CD-96/2019
+  address: 505/186 Campbell Parade BONDI BEACH NSW 2026
+  description: Private - Internal alterations to an existing sole occupancy unit
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371214
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=CD-96/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: CD-97/2019
+  address: 21 Frederick Street NORTH BONDI NSW 2026
+  description: Private - Alterations and additions to existing semi detached dwelling
+    including first floor addition
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371244
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=CD-97/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: CD-98/2019
+  address: 6 Lugar Brae Avenue BRONTE NSW 2024
+  description: Private - Alterations and additions to the rear of the existing dwelling
+    including demolition of the existing brick shed and laundry structure and construction
+    of a new external laundry cupboard and sink and new inground concrete swimming
+    pool with associated landscaping works
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371245
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=CD-98/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: CD-99/2019
+  address: 2/154 Glenayr Avenue BONDI BEACH NSW 2026
+  description: Private - Alterations to existing shop to reduce the number of patrons
+    from eighteen to fifteen
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371375
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=CD-99/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: DA-172/2014/B
+  address: 71-77 Oxford Street BONDI JUNCTION NSW 2022
+  description: Modification of existing terrace with addition of spa, storeroom and
+    landscaping and various other alterations.
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371254
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-172/2014/B
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: DA-173/2019
+  address: 14 Stewart Street NORTH BONDI NSW 2026
+  description: Alterations to semi-detached dwelling including a handstand parking
+    space and driveway
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371203
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-173/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: DA-174/2019
+  address: 57 Ebley Street BONDI JUNCTION NSW 2022
+  description: Substantial demolition of the existing dwelling and construction of
+    a three storey boarding house with 12 rooms.
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371278
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-174/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: DA-175/2019
+  address: 54 St Thomas Street BRONTE NSW 2024
+  description: Change of use of existing garage/ studio to secondary dwelling
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371362
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-175/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: DA-176/2019
+  address: 1 High Street WAVERLEY NSW 2024
+  description: Alterations and additions to two storey terrace including a new garage
+    and attic room
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371472
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-176/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: DA-178/2019
+  address: 84 Hastings Parade NORTH BONDI NSW 2026
+  description: Alterations and additions to semi-detached dwelling including new carport
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371508
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-178/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: DA-179/2019
+  address: 25 Reina Street NORTH BONDI NSW 2026
+  description: Alterations and additions to semi attached dwelling including new deck,
+    new pool and new cabana
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371520
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-179/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: DA-180/2019
+  address: 29 Murray Street BRONTE NSW 2024
+  description: Construction of a new single storey secondary dwelling including a
+    new balcony and landscaping
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371541
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-180/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'
+- council_reference: DA-255/2017/B
+  address: 8 View Street QUEENS PARK NSW 2022
+  description: Modification to windows , balcony , verandah and boundary fence
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371471
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-255/2017/B
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: DA-260/2017/A
+  address: 1 Baglin Street BRONTE NSW 2024
+  description: Modification including removal of first floor balcony. reduction in
+    gross floor area and changing roof form
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371488
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-260/2017/A
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-06'
+- council_reference: DA-445/2016/B
+  address: 8 Miller Street BONDI NSW 2026
+  description: Modification to relocate main entrance door
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371136
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-445/2016/B
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: DA-498/2017/B
+  address: 16 Spring Street BONDI JUNCTION NSW 2022
+  description: Modification to alter internal layout, changes to windows and various
+    other alterations to the facade
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371183
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-498/2017/B
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: DA-523/2016/B
+  address: 130 Wellington Street BONDI BEACH NSW 2026
+  description: Modification including partial infill of balcony , new pool cabana
+    and increasing front fence height
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371446
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-523/2016/B
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: DA-562/2014/A
+  address: 1/71-77 Oxford Street BONDI JUNCTION NSW 2022
+  description: Modification to approved pergola over existing terrace
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371246
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-562/2014/A
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: DA-580/2015/C
+  address: 46 Watson Street BONDI NSW 2026
+  description: Modification including a change from garage to studio and extending
+    rear balcony
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371158
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=DA-580/2015/C
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: TPO-147/2019
+  address: 127 Curlewis Street BONDI BEACH NSW 2026
+  description: Remove one (1) Schefflera Sp located on RHS in rear yard. This tree
+    is unsuitable & unsustainable in its location. The canopy is overhanging on the
+    neighbouring property. To prune this tree away would require a significant amount
+    to be removed, will leave the tree as a poor specimen.
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371147
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=TPO-147/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: TPO-148/2019
+  address: 25 Sir Thomas Mitchell Road BONDI BEACH NSW 2026
+  description: Remove one (1) Avocado tree located rear left. Tree is unsuitable &
+    unsustainable in its location, adjacent to the fence and it is being suppressed
+    by other trees.
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371170
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=TPO-148/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-03'
+- council_reference: TPO-149/2019
+  address: 1 Young Street VAUCLUSE NSW 2030
+  description: Remove one (1) Fig Tree located in the rear yard
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371243
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=TPO-149/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: TPO-150/2019
+  address: 70 Liverpool Street ROSE BAY NSW 2029
+  description: Prune one (1) Pine tree located in the rear yard.
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371253
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=TPO-150/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: TPO-151/2019
+  address: 13 Rodney Street DOVER HEIGHTS NSW 2030
+  description: Remove One (1) Coral tree and One (1) Conifer spp adjacent to rear
+    boundary. The Coral tree is unsuitable & unsustainable in its location. It continuously
+    drops large branches. This tree presents an unacceptable level of risk to the
+    residence. The Conifer spp has shifted in the ground and has become a hazard.
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371276
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=TPO-151/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: TPO-152/2019
+  address: 95 Ocean Street BONDI NSW 2026
+  description: Remove one (1) Cottonwood in front yard and one (1) Eucalyptus on south
+    side of front yard.
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371277
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=TPO-152/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-04'
+- council_reference: TPO-153/2019
+  address: 8-12 Frederick Street NORTH BONDI NSW 2026
+  description: Remove one(1) Banksia Tree located in middle common garden area.
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371408
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=TPO-153/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-05'
+- council_reference: TPO-154/2019
+  address: 21 Hastings Parade BONDI BEACH NSW 2026
+  description: Remove one (1) Norfolk Island Pine from rear.
+  info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371567
+  comment_url: mailto:waver@waverley.nsw.gov.au?subject=TPO-154/2019
+  date_scraped: '2019-05-15'
+  date_received: '2019-06-07'

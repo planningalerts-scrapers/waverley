@@ -13,7 +13,6 @@ puts "Getting '" + period + "' data, changable via MORPH_PERIOD environment";
 
 url_base    = 'http://eservices.waverley.nsw.gov.au'
 da_url      = url_base + '/Pages/XC.Track/SearchApplication.aspx?d=' + period + '&k=LodgementDate&t=A0,SP2A,TPO,B1,B1A,FPS'
-comment_url = 'mailto:waver@waverley.nsw.gov.au?subject='
 
 # Disable gzip otherwise server will return below error message
 # in `response_content_encoding': unsupported content-encoding: gzip,gzip (Mechanize::Error)
@@ -56,7 +55,6 @@ results.each do |result|
     'address'           => address,
     'description'       => description,
     'info_url'          => info_url,
-    'comment_url'       => comment_url + council_reference,
     'date_scraped'      => Date.today.to_s,
     'date_received'     => date_received.to_s
   }

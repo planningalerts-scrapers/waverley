@@ -2,7 +2,7 @@ require 'scraperwiki'
 require 'mechanize'
 
 url_base    = 'http://eservices.waverley.nsw.gov.au'
-da_url      = url_base + '/Pages/XC.Track/SearchApplication.aspx?d=thisweek&k=LodgementDate&t=A0,SP2A,TPO,B1,B1A,FPS'
+da_url      = url_base + '/Pages/XC.Track/SearchApplication.aspx?d=last14days&k=LodgementDate&t=A0,SP2A,TPO,B1,B1A,FPS'
 
 # Disable gzip otherwise server will return below error message
 # in `response_content_encoding': unsupported content-encoding: gzip,gzip (Mechanize::Error)

@@ -42,11 +42,11 @@ results.each do |result|
 
   record = {
     'council_reference' => council_reference,
-    'address'           => address,
     'description'       => description,
-    'info_url'          => info_url,
+    'date_received'     => date_received.to_s,
+    'address'           => address,
     'date_scraped'      => Date.today.to_s,
-    'date_received'     => date_received.to_s
+    'info_url'          => info_url
   }
 
   # Saving data

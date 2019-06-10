@@ -1,18 +1,8 @@
 require 'scraperwiki'
 require 'mechanize'
 
-case ENV['MORPH_PERIOD']
-when 'thismonth'
-  period = 'thismonth'
-when 'lastmonth'
-  period = 'lastmonth'
-else
-  period = 'thisweek'
-end
-puts "Getting '" + period + "' data, changable via MORPH_PERIOD environment";
-
 url_base    = 'http://eservices.waverley.nsw.gov.au'
-da_url      = url_base + '/Pages/XC.Track/SearchApplication.aspx?d=' + period + '&k=LodgementDate&t=A0,SP2A,TPO,B1,B1A,FPS'
+da_url      = url_base + '/Pages/XC.Track/SearchApplication.aspx?d=thisweek&k=LodgementDate&t=A0,SP2A,TPO,B1,B1A,FPS'
 
 # Disable gzip otherwise server will return below error message
 # in `response_content_encoding': unsupported content-encoding: gzip,gzip (Mechanize::Error)

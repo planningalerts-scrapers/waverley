@@ -1,60 +1,59 @@
 ---
 - council_reference: CD-106/2014/A
-  description: Private - Modified certificate - Replace existing window with door
-    unit
+  description: Modified certificate - Replace existing window with door unit
   date_received: '2019-06-05'
   address: 44 Mill Hill Road BONDI JUNCTION NSW 2022
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371374
 - council_reference: CD-205/2018/A
-  description: Private - Modification to North and South Elevation doors and windows
+  description: Modification to North and South Elevation doors and windows
   date_received: '2019-05-30'
   address: 16 Stephen Street BONDI NSW 2026
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371034
 - council_reference: CD-93/2019
-  description: Private - Residential unit alterations - Unit 4
+  description: Residential unit alterations - Unit 4
   date_received: '2019-05-29'
   address: 4/7 Victoria Street QUEENS PARK NSW 2022
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=370888
 - council_reference: CD-94/2019
-  description: Private - Residential unit alterations - Unit 3
+  description: Residential unit alterations - Unit 3
   date_received: '2019-05-29'
   address: 3/7 Victoria Street QUEENS PARK NSW 2022
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=370900
 - council_reference: CD-95/2019
-  description: Private - Alterations and additions to existing dwelling
+  description: Alterations and additions to existing dwelling
   date_received: '2019-05-29'
   address: 21 Hardy Street NORTH BONDI NSW 2026
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=370901
 - council_reference: CD-96/2019
-  description: Private - Internal alterations to an existing sole occupancy unit
+  description: Internal alterations to an existing sole occupancy unit
   date_received: '2019-06-03'
   address: 505/186 Campbell Parade BONDI BEACH NSW 2026
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371214
 - council_reference: CD-97/2019
-  description: Private - Alterations and additions to existing semi detached dwelling
-    including first floor addition
+  description: Alterations and additions to existing semi detached dwelling including
+    first floor addition
   date_received: '2019-06-04'
   address: 21 Frederick Street NORTH BONDI NSW 2026
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371244
 - council_reference: CD-98/2019
-  description: Private - Alterations and additions to the rear of the existing dwelling
-    including demolition of the existing brick shed and laundry structure and construction
-    of a new external laundry cupboard and sink and new inground concrete swimming
-    pool with associated landscaping works
+  description: Alterations and additions to the rear of the existing dwelling including
+    demolition of the existing brick shed and laundry structure and construction of
+    a new external laundry cupboard and sink and new inground concrete swimming pool
+    with associated landscaping works
   date_received: '2019-06-04'
   address: 6 Lugar Brae Avenue BRONTE NSW 2024
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371245
 - council_reference: CD-99/2019
-  description: Private - Alterations to existing shop to reduce the number of patrons
-    from eighteen to fifteen
+  description: Alterations to existing shop to reduce the number of patrons from eighteen
+    to fifteen
   date_received: '2019-06-05'
   address: 2/154 Glenayr Avenue BONDI BEACH NSW 2026
   date_scraped: '2019-05-15'
@@ -175,7 +174,7 @@
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371520
 - council_reference: DA-180/2019
-  description: Construction of a new single storey secondary dwelling including a
+  description: Construction of a new  single storey secondary dwelling including a
     new balcony and landscaping
   date_received: '2019-06-07'
   address: 29 Murray Street BRONTE NSW 2024
@@ -237,7 +236,7 @@
   description: Modification to alter internal layout, changes to windows and various
     other alterations to the facade
   date_received: '2019-06-03'
-  address: 16 Spring Street BONDI JUNCTION NSW 2022
+  address: 87 Oxford Street BONDI JUNCTION NSW 2022
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371183
 - council_reference: DA-523/2016/B
@@ -257,7 +256,7 @@
 - council_reference: DA-562/2014/A
   description: Modification to approved pergola over existing terrace
   date_received: '2019-06-04'
-  address: 1/71-77 Oxford Street BONDI JUNCTION NSW 2022
+  address: 71-77 Oxford Street BONDI JUNCTION NSW 2022
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371246
 - council_reference: DA-580/2015/C
@@ -341,9 +340,9 @@
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371147
 - council_reference: TPO-148/2019
-  description: Remove one (1) Avocado tree located rear left. Tree is unsuitable &
-    unsustainable in its location, adjacent to the fence and it is being suppressed
-    by other trees.
+  description: |-
+    Remove one (1) Avocado tree located rear left. Tree is unsuitable & unsustainable in its location, adjacent to the fence and it is being
+    suppressed by other trees.
   date_received: '2019-06-03'
   address: 25 Sir Thomas Mitchell Road BONDI BEACH NSW 2026
   date_scraped: '2019-05-15'
@@ -361,10 +360,9 @@
   date_scraped: '2019-05-15'
   info_url: http://eservices.waverley.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?id=371253
 - council_reference: TPO-151/2019
-  description: Remove One (1) Coral tree and One (1) Conifer spp adjacent to rear
-    boundary. The Coral tree is unsuitable & unsustainable in its location. It continuously
-    drops large branches. This tree presents an unacceptable level of risk to the
-    residence. The Conifer spp has shifted in the ground and has become a hazard.
+  description: |-
+    Remove One (1) Coral tree and One (1) Conifer spp adjacent to rear boundary.
+    The Coral tree is unsuitable & unsustainable in its location. It continuously drops large branches. This tree presents an unacceptable level of risk to the residence. The Conifer spp has shifted in the ground and has become a hazard.
   date_received: '2019-06-04'
   address: 13 Rodney Street DOVER HEIGHTS NSW 2030
   date_scraped: '2019-05-15'
